@@ -47,7 +47,7 @@
 ## 🔥 Contribution Streak  
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true&border_radius=10" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=gurupreetam9&theme=dark&hide_border=true&border_radius=10" alt="GitHub Streak" />
 </p>
 
 ---
