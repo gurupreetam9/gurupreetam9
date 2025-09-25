@@ -39,7 +39,7 @@
 
 <p align="center">
   <!-- Add/Remove based on your stack -->
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,unity,java,cpp,html,css,nodejs,git,docker,mongodb,firebase&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,unity,java,html,css,nodejs,git,docker,mongodb,firebase&perline=7" />
 </p>
 
 ---
