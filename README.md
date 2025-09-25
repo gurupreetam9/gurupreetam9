@@ -45,10 +45,13 @@
 ---
 
 ## 🔥 Contribution Streak  
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=gurupreetam9&theme=dark&hide_border=true&border_radius=10" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-delta-three.vercel.app?user=gurupreetam9&theme=dark" alt="GitHub Streak" />
 </p>
+
+
+
+
 
 ---
 
