@@ -21,8 +21,8 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gurupreetam9&show_icons=true&theme=radical" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurupreetam9&layout=compact&theme=radical" height="170" />
+  <img src="https://github-readme-stats-ochre-one-79.vercel.app/api?username=gurupreetam9&show_icons=true&theme=radical" height="170" />
+  <img src="https://github-readme-stats-ochre-one-79.vercel.app/api/top-langs/?username=gurupreetam9&layout=compact&theme=radical" height="170" />
 </p>
 
 ---
@@ -30,7 +30,7 @@
 ## 🏆 GitHub Trophies  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gurupreetam9&theme=gruvbox&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy-delta-dusky.vercel.app/?username=gurupreetam9&theme=gruvbox&no-frame=true&margin-w=10" />
 </p>
 
 ---
