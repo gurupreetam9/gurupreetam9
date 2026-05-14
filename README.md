@@ -9,12 +9,42 @@
 
 ## 🌟 About Me  
 
-🎓 Final-year **B.Tech in CSE (AI & ML)** student at **S.R.K Institute of Technology** (CGPA: 8.09/10)  
-💡 Passionate about **AI, full-stack development, and cloud tools**  
-🚀 Experienced in building **OCR, CV, AR, and AI-powered apps**  
-🎯 Looking for opportunities in **Software Engineering / AI Engineering**  
-🛡️ Also exploring **Ethical Hacking** & building secure systems  
-🎨 Interested in **3D Designing & creative visualization**
+💻 Software Developer focused on **AI, Android Development, Computer Vision, AR, and Automation Systems**  
+
+🚀 Building projects involving:
+- Android automation using Accessibility Service & MediaProjection
+- AI-powered OCR and Computer Vision systems
+- TensorFlow Lite and YOLOv8 integrations
+- ARCore and real-time interaction systems
+- Full-stack apps using React, Next.js, Flask, Firebase, and MongoDB
+
+🛠️ Interested in:
+- AI Assistants
+- Unreal Engine 5
+- Real-time AR collaboration
+- Mobile automation workflows
+- NLP and recommendation systems
+
+🎯 Currently exploring advanced AI-driven interaction systems and AR experiences
+
+---
+
+## 🚀 Featured Projects
+
+### Automation Companion
+Android automation assistant using Accessibility Service, MediaProjection, OCR, and AI-driven workflows.
+
+🔗 https://github.com/Autonion/Automation-Companion
+
+### ExoPredict (A World Away)
+AI/ML-powered exoplanet detection system using NASA Kepler, K2, and TESS mission datasets for automated astronomical data analysis and classification.
+
+🌐 https://exo-predict.vercel.app
+
+### CertIntel
+AI-powered certificate analysis platform using YOLOv8, OCR, NLP, and intelligent course recommendation systems.
+
+🌐 https://cert-intel.vercel.app
 
 ---
 
@@ -39,7 +69,7 @@
 
 <p align="center">
   <!-- Add/Remove based on your stack -->
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,java,html,css,nodejs,git,docker,mongodb,firebase&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,kotlin,java,cpp,js,ts,react,nextjs,nodejs,firebase,mongodb,git,docker,linux&perline=7" />
 </p>
 
 ---
@@ -55,10 +85,9 @@
 
 ---
 
-## 🎨 Fun Extras  
+## 🎮 Interests
 
 - 🍿 Favorite Anime: One Piece☠️👒  
-- 📖 Favorite Manhwa: Omniscient Reader's Viewpoint  
 - 🎮 Favorite Game: Elden Ring
 
 <p align="center">
@@ -70,7 +99,7 @@
 ## 🌐 Connect With Me  
 
 <p align="center">
-  <a href="www.linkedin.com/in/guru-preetam"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/guru-preetam"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
   <a href="mailto:gurupreetambodapati@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
     <a href="https://discordapp.com/users/gurupreetam"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord&logoColor=white" /></a>
 
@@ -80,4 +109,4 @@
 
 ---
 
-<p align="center">⚡ Powered by creativity & curiosity ⚡</p>
+<p align="center">Building intelligent systems and interactive experiences.</p>
