@@ -34,7 +34,7 @@
 ### Automation Companion
 Android automation assistant using Accessibility Service, MediaProjection, OCR, and AI-driven workflows.
 
-🔗 https://play.google.com/store/apps/details?id=com.autonion.automationcompanion
+🌐 https://play.google.com/store/apps/details?id=com.autonion.automationcompanion
 
 ### ExoPredict (A World Away)
 AI/ML-powered exoplanet detection system using NASA Kepler, K2, and TESS mission datasets for automated astronomical data analysis and classification.
