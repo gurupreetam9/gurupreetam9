@@ -48,6 +48,26 @@ AI-powered certificate analysis platform using YOLOv8, OCR, NLP, and intelligent
 
 ---
 
+## ⏸️ Paused: Ghost Canvas Live AR (Android AR/XR, ARCore)
+
+**Status:** Paused (started October 2025, shelved around February–March 2026). Source is in a private repo.
+
+Ghost Live AR is an experimental real-time AR project built on ARCore. Details to be shared when development resumes.
+
+It worked across most Android versions and devices I tested. When I tested it on newer hardware, it no longer behaved as it did before, and occlusion didn't work as expected even though the devices are on the official ARCore supported list.
+
+**Did not work as expected on:**
+- Android 16
+- Realme GT 7
+- iQOO 15R
+- Redmi Turbo 4
+
+**Findings:** newer phones ship with very advanced camera setups that ARCore/XR support doesn't seem to handle properly yet, and occlusion was unreliable despite official support listings.
+
+I paused it rather than build on unstable ground, and plan to retest as ARCore and device support improve.
+
+---
+
 ## 📊 GitHub Stats  
 
 <p align="center">
