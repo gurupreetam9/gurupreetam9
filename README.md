@@ -110,8 +110,12 @@ I paused it rather than build on unstable ground, and plan to retest as ARCore a
 - 🍿 Favorite Anime: One Piece☠️👒  
 - 🎮 Favorite Game: Elden Ring
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p> -->
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
 </p>
 
 ---
